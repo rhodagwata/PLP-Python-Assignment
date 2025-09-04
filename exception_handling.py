@@ -1,5 +1,5 @@
 # Asking the user for a filename
-filename = input("Enter the filename to read: ")
+filename = input("Enter a filename: ")
 
 try:
     
